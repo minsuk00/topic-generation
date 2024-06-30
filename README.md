@@ -12,7 +12,7 @@ Uses a chain of LLMs to analyze the topic.
 1. Clone from github
 
    ```console
-   $ git clone ~~
+   $ git clone https://github.com/minsuk00/topic-generation.git
    ```
 
 2. Set API keys in `.env` file (e.g. anthropic api key, azure api key, etc)
