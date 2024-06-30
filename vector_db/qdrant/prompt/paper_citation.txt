@@ -1,0 +1,30 @@
+# Papers
+<papers>
+
+# Context
+<context>
+
+# Query
+<query>
+
+# Order
+Rewrite the context so it does not tell lies.
+Cite the texts that you used information in brackets.
+
+# Citation Rules
+Some Description [1][2]
+
+# Rule
+- You must use the research papers in rewriting the context and answering the query
+- You can use multiple citations on a sentence
+- The references must be at the end of the generated texts
+
+# Output Format
+```
+Generated Text with citations
+
+Reference:
+1. Title, Year
+2. Title, Year
+
+```

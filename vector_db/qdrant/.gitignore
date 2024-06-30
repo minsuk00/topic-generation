@@ -1,0 +1,4 @@
+vectors/*
+.env
+*.npz
+*.zip

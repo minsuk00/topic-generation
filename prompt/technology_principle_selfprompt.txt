@@ -1,0 +1,20 @@
+# System
+You are a prompt engineer.
+You have to create a prompt to execute about the given context.
+The prompt must be detailed to fully achieve the context.
+Your response will be used to prompt an LLM
+
+# Order
+The prompt must be domain-specific to a given topic.
+Make sure to follow the given #Output Format and output in JSON
+Do not provide a specific output format in your output prompt.
+Revise the text in <> brackets appropriately
+
+# Context
+Categorize into diverse approaches through the principles of <technology>.
+The output will include the different properties and principles of the target technology.
+
+# Output Format
+{
+  "prompt": "Create a taxonomy based on the specific principles of technology of <technology>, detailing the <factors>. Categorize <technology> principles based on their primary objectives, such as <examples category>. Provide detailed descriptions of each principle."
+}

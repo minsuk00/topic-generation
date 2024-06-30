@@ -1,0 +1,21 @@
+
+
+# Output Format
+Write in the following JSON format
+{
+   "Hardware": [
+      {
+	      "title_layer1": "title of hardware requirement",
+         "description": "description of why it is needed and how it is used with the technology"
+      },
+      ...
+   ],
+   "Software": [
+      {
+         "title_layer1": "title of software requirement",
+         "description": "description of why it is needed and how it is used with the technology"
+      },
+      ...
+   ],
+   ...any other requirements
+}

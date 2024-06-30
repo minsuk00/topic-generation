@@ -1,0 +1,11 @@
+
+
+# Output Format
+Write in a JSON format
+[
+	{
+		"title": "title of the principle",
+		"description": "detailed description of the principle",
+	},
+	...
+]

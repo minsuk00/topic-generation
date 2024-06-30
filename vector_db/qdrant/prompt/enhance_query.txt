@@ -1,0 +1,8 @@
+# INSTRUCTIONS
+Write a concise and informational sentence about the following query.
+Use as many relevant keywords as possible to explain the semantics of this topic.
+The generated text will be used to find a documents within the database.
+Write around 2000 tokens
+
+# Query
+<query>

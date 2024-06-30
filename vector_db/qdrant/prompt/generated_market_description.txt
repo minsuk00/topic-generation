@@ -1,0 +1,26 @@
+# ORDER
+You will be given a list of markets in MARKET
+You have to write a concise, literate, articulate and general description of the industries in 100 tokens
+
+# MARKET
+<market>
+
+# RULE
+- You must follow the OUTPUT FORMAT
+- You must write in japanese and english
+- The description must be concise and specific
+
+# EXAMPLE DESCRIPTION
+"ゼネコン": "元請負者として各種の土木・建築工事を一式で発注者から直接請負い、工事全体のとりまとめを行う企業群"
+"ビル・住宅建築": "オフィスや商業施設、マンションなどの建物の建築を担う企業群"
+
+# OUTPUT FORMAT
+{  "result": [
+    {
+        "name": "name of the industry in english",
+        "japanese_name" : "市場名"
+        "description": "description of the industry in english"
+        "japanese_description": "日本語の概要"
+    }, ...]
+}
+

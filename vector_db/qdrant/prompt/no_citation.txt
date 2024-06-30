@@ -1,0 +1,8 @@
+# Query: <query>
+
+# Context: <context> (ignore if empty)
+
+# Order:
+Answer the query given the context.
+Write a very concise, literate and articulate manner.
+Write around 2000 tokens

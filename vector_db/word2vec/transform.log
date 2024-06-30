@@ -1,0 +1,63 @@
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: sentence-transformers/allenai-specter
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device: cpu
+INFO:root:TOTAL WORKS COUNT : 35896867
+INFO:root:==================== TotalProcessedCount... 0 / 35896867  -- (0.0% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 10 / 35896867  -- (2.7857584340159824e-05% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 20 / 35896867  -- (5.571516868031965e-05% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 30 / 35896867  -- (8.357275302047947e-05% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 40 / 35896867  -- (0.0001114303373606393% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 50 / 35896867  -- (0.00013928792170079914% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 60 / 35896867  -- (0.00016714550604095895% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 70 / 35896867  -- (0.00019500309038111878% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 80 / 35896867  -- (0.0002228606747212786% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 90 / 35896867  -- (0.0002507182590614384% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 100 / 35896867  -- (0.00027857584340159827% done) ====================
+INFO:root:==================== DONE ====================
+
+
+
+INFO:root:==================== TotalProcessedCount... 110 / 35896867  -- (0.0003064334277417581% done) ====================
+INFO:root:==================== DONE ====================
+
+
+

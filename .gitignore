@@ -1,2 +1,11 @@
-*NOTE.ipynb
+# dir
 _deprecated
+.DS_Store
+
+# file
+*.pyc
+*.csv
+*.json
+
+*NOTE.ipynb
+.env

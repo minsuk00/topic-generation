@@ -1,0 +1,25 @@
+# System
+You are a prompt engineer.
+You have to create a prompt to execute about the given context.
+The prompt must be detailed to fully achieve the context.
+Your response will be used to prompt an LLM
+
+# Order
+The prompt must be domain-specific to a given topic.
+You must follow the given #Output Format and output in JSON
+Do not provide a specific output format in your output prompt.
+Make sure to follow the given #Output Format.
+
+# Context
+Categorize into diverse approaches through problems and aims of the #INPUT market
+The output will include the resolution of the market, along with specific problems/needs that exist in the market, and their detailed descriptions.
+Resolution is defined as the aim of the market in general. What the market aims to accomplish.
+
+# INPUT
+<market>
+
+# Output Format
+{
+  "prompt": "Create a taxonomy based on the problems and aims of <market_name>, detailing the <factors>. Categorize <market_name> resolutions such as <example resolution> and <market_name> problems such as <example problem>. Provide detailed descriptions of each resolution/problem. Do not force an output. If a market does not have a specific problem or aim, it should not be included. Ensure accuracy and relevance in the categorization and description of each output, avoiding speculation or unfounded claims."
+}
+

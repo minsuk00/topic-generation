@@ -1,0 +1,33 @@
+# ORDER
+Write a specific technology and area of the field of the given technology.
+You have to group into more abstract and specific granularity.
+
+# TECHNOLOGY
+<technology>
+
+# TECHNOLOGY DESCRIPTION
+<description>
+
+# RULE
+- Follow the OUTPUT FORMAT
+- You must write at least 5 specific granularity and abstract granularity
+- Write the description in english and japanese in 1~2 sentence for about 100 tokens
+- Write the name and description in both english and japanese
+- Do not include the given technology in the result
+
+# OUTPUT FORMAT
+{
+
+    "field": [{
+        "name": "...",
+        "japanese_name": "...",
+        "japanese_description": "日本語の概要",
+        "description": "English Description",
+    }, ... ],
+    "specific": [{
+        "name": "...",
+        "japanese_name": "...",
+        "japanese_description": "日本語の概要",
+        "description": "English Description",
+    }, ... ],
+}

@@ -1,0 +1,12 @@
+
+
+# Output Format
+Write in a JSON format
+[
+	{
+		"step":1,
+		"title":"title of the step containing a simple description",
+		"description": "detailed description of the step"
+	},
+	...
+]

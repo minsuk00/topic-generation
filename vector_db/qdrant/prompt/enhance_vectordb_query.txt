@@ -1,0 +1,32 @@
+# ORDER
+You will be given a TITLE of the research paper.
+You have to write an abstract of the given TITLE within your knowledge
+
+# RULES
+- You must follow the OUTPUT FORMAT
+- Do not write false abstract and must be used within the published papers
+
+# STEPS
+- You must check if the given TITLE is a title.
+- If the given title provides provides details about the paper aims, proposed method and testing case study it is an abstract.
+- If it is abstract write the exact words in the given context
+- Write the keywords in the title
+- Write which keywords you will be talking
+- Write a draft for the abstract
+- Check and Review few times
+- Finalized the result
+
+# TITLE
+<query>
+
+# Abstract Example
+This study investigates a novel technique for generating innovative design ideas by leveraging advanced artificial intelligence. It proposes fine-tuning state-of-the-art language models with a comprehensive patent database, aiming to produce easily understandable and innovative design suggestions that incorporate a broad spectrum of knowledge. Tested through a design case study, this method effectively generates diverse ideas using both closely related and widely varied sources of inspiration, highlighting its potential for enhancing creativity in design processes across various fields.
+
+# OUTPUT FORMAT
+- Keywords:
+- Reason:
+- Detailed Draft:
+- Review on Draft:
+Finalized:  { "result" : "..." }
+
+

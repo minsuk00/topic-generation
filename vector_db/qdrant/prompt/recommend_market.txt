@@ -1,0 +1,35 @@
+# MARKET LIST
+<market>
+
+# ORDER
+You will be given a keyword and the description of the technology.
+You have to write an ordered list of a industries, where the technology is mostly applicable
+
+# TECHNOLOGY
+<technology>
+
+# TECHNOLOGY DESCRIPTION
+<description>
+
+# RULES
+- You have to select the exact name from the MARKET LIST
+- You have to select at least <number_of_markets> most applicable market from the MARKET LIST
+- You can write few innovative markets of the technology
+- The selected market must be diverse, dissimilar, different and unlike
+- You have to write in both english and japanese
+- The description must be written about 100 words in concise, literate, articulate and general manner.
+- You must follow the output format written in #OUTPUT FORMAT
+
+# OUTPUT FORMAT
+must return in json without any spaces
+{
+    "result": [
+        {
+            "name": "...",
+            "japanese_name": "...",
+            "description": "..."
+            "japanese_description": "..."
+        },
+        ...
+    ],
+}

@@ -1,0 +1,22 @@
+
+
+# Output Format
+Output in the following JSON format. You will be penalized for not following this format.
+{
+    "market": "name of market that is analyzed",
+    "resolution": [
+        {
+            "name": "name of resolution or aim",
+            "description": "description of resolution or aim",
+            "problems":[
+                {
+                    "name": "name of market problem",
+                    "description": "description of problem"
+                },
+                ...
+            ]
+        },
+        ...
+    ]
+}
+
